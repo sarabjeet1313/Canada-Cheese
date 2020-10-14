@@ -1,0 +1,12 @@
+.navStyle {
+  margin-bottom: 5%;
+}
+
+.cardStyle {
+  margin-bottom: 4%;
+  transition: transform 200ms ease-in-out;
+}
+
+.cardStyle:hover {
+  transform: scale(1.1);
+}
