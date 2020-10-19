@@ -83,7 +83,7 @@ class CheeseMain extends Component {
           )}
         </div>
       </div>
-    );
+    )
   }
 }
 
